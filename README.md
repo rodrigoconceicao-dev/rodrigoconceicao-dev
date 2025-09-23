@@ -20,14 +20,14 @@ Currently, I'm working on my **portfolio website** to showcase my projects and m
 - 📱 **React Native App**  
 - 📱 **Flutter App**  
 - 🌐 **Websites developed**  
-- 🖥️ **Portfolio Website** *(in progress)*  
+- 🖥️ **Portfolio Website** *https://rodrigoconceicao-dev.github.io/Portefolio*  
 
 ---
 
 ## 📫 Contact  
 - ✉️ **Email:** rodrigoalexandre388@gmail.com  
-- 💼 [LinkedIn](#) *(to be added)*  
-- 🌐 [Portfolio](#) *(coming soon)*  
+- 💼 [LinkedIn](#) *https://www.linkedin.com/in/rodrigoconceição*  
+- 🌐 [Portfolio](#) *https://rodrigoconceicao-dev.github.io/Portefolio*  
 
 ---
 
